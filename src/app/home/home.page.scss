@@ -9,7 +9,7 @@
 }
 
 #container strong {
-  font-size: 20px;
+  font-size: 30px;
   line-height: 26px;
 }
 
@@ -17,9 +17,16 @@
   font-size: 16px;
   line-height: 22px;
 
-  color: #8c8c8c;
+  color: #f4f6f3;
 
   margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+.error-message {
+  color: var(--ion-color-danger);
 }
 
 #container a {
